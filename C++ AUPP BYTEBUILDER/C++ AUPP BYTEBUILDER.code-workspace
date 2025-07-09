@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Cvs"
+		},
+		{
+			"path": "../../Python Code/Python AUPP BYTEBUILDER"
+		},
+		{
+			"path": "../../Python Code/Basic_Python"
+		},
+		{
+			"path": "../C++ SELFSTUDY"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"random": "cpp",
+			"iostream": "cpp"
+		}
+	}
+}
